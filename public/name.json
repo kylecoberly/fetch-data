@@ -1,3 +1,11 @@
 {
-    "name": "Kyle"
+  "name": "Kyle",
+  "title": "Faculty Director",
+  "skills": ["Coding", "Singing", "Dancing", "Drinking beer"],
+  "minions": {
+    "righthandWoman": "Kim",
+    "leadInstructors": ["Brooks", "Chad", "Dan"],
+    "associateInstructors": ["Peter", "Matt", "Schultz"],
+    "residentInstructors": ["Casey", "Lizz", "The Mann"]
+  }
 }
